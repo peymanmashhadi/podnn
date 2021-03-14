@@ -14,7 +14,7 @@ For further detailes about PODNN, please refer to the [paper](https://www.scienc
 
 <p align='justify'>The implementation of PODNN is available in both <strong>Tensorflow</strong> and <strong>Pytorch</strong>. </p>
 
-<h3> Installation
+## Installation
 
 ```
 git clone https://gitlab.com/peeymansh/podnn.git
