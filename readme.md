@@ -12,7 +12,7 @@
 
 <p align='justify'>The main promise of PODNN stems from the enforced diversity mechanism caused by orthogonalization sub-layers. The embeded diversity mechanism make effective use of a number of deep models since each deep model will provide a considerable deal of contributation to the final prections. </p>
 
-<p align='justify'>The implementation of PODNN is available in both <strong>Tensorflow</strong> and <strong>Pytorch</strong>. </p>
+<p align='justify'>The implementation of PODNN is available both in <strong>Tensorflow</strong> and <strong>Pytorch</strong>. </p>
 
 ## Installation
 
