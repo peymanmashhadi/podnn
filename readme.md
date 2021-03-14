@@ -2,7 +2,7 @@
 
 <p align='justify'>PODNN is a method lies in the intersection of deep learning and ensmeble methods. It makes efficient use of deep neural networks in an ensmble setting. It consists of a number of parallel deep neural networks that are made parallel together. Each parallel sub-layer is followed by an orthogonalization sub-layer. These parallel part of the architecture is then followed by aggregation layer and meta part. Architecutre of PODNN is shown in the following figure.</p>
 
-<p> For further detailes about PODNN, please refer to the [paper](https://www.sciencedirect.com/science/article/pii/S0893608021000824) .</p>
+<p> For further detailes about PODNN, please refer to the [paper](https://www.sciencedirect.com) .</p>
 
 <br>
 
