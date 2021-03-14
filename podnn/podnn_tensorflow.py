@@ -298,7 +298,7 @@ class AggregationLayer(layers.Layer):
 
         """
         Args:
-             stride: is used to determine number of based models to be aggregated with each other.
+             stride: is used to determine the number of base models to be aggregated with each other.
              output_dim: determines the dimension of output of the aggregation layer.
         """
 
