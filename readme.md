@@ -17,7 +17,7 @@ For further detailes about PODNN, please refer to the [paper](https://www.scienc
 ## Installation
 
 ```
-git clone https://gitlab.com/peeymansh/podnn.git
+git clone https://github.com/peymanmashhadi/podnn.git
 python setup.py install
 ```
 
