@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://gitlab.com/peeymansh/podnn",
     project_urls={
-        "Bug Tracker": "https://gitlab.com/peeymansh/podnn",
+        "Bug Tracker": "https://github.com/peymanmashhadi/podnn",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
