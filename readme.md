@@ -28,7 +28,7 @@ python setup.py install
 ### Pytorch
 
 ```python
-import podnn_torch
+from podnn import podnn_torch
 import torch
 from torch import nn
 from sklearn.preprocessing import StandardScaler
@@ -73,7 +73,7 @@ for t in range(epochs):
 ### Tensorflow
 
 ```python
-import podnn_tensorflow
+from podnn import podnn_tensorflow
 import tensorflow as tf
 from tensorflow.keras import Model
 from sklearn import datasets
@@ -155,7 +155,7 @@ for i in range(epochs):
 ### Pytorch
 
 ```python
-import podnn_torch
+from podnn import podnn_torch
 import torch
 from torch import nn
 from torchvision import datasets,transforms
@@ -215,7 +215,7 @@ for t in range(epochs):
 
 ### Tensorflow
 ```python
-import podnn_tensorflow
+from podnn import podnn_tensorflow
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras import layers,Model
