@@ -4,6 +4,7 @@
 For further detailes about PODNN, please refer to the [paper](https://www.sciencedirect.com/science/article/pii/S0893608021000824).
 
 <br>
+<br>
 
 <img class="plain" src="./images/podnn_architecture_fullyconnected.png" width="1000">
 
