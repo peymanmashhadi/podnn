@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0",
     author="Peyman Mashhadi",
     author_email="peyman.mashhadi@hh.se",
-    description="Parallel Orthogonal Deep Neural Networks",
+    description="Parallel Orthogonal Deep Neural Network",
     long_description='PODNN is a method lies in the intersection of deep learning and ensmeble methods. It makes efficient use of deep neural networks in an ensmble setting. It consists of a number of parallel deep neural networks that are made parallel together. Each parallel sub-layer is followed by an orthogonalization sub-layer. ',
     long_description_content_type="text/markdown",
     url="https://gitlab.com/peeymansh/podnn",
